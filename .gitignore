@@ -1,3 +1,6 @@
+# Data: too large for GitHub, and not ours to redistribute
+data/raw/
+data/processed/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
